@@ -1,0 +1,2 @@
+# turbofix.github.io
+We provide comprehensive repair services for Decanter Screws, Boiler Feed Pumps, Dynamic Balancing of all critical rotating machinery, Steam Turbines, Sand Blasting, Shafts, Runners, other critical rotating machinery like Hammer Mills, Governor and much more. We also manufacture Plain Journal and Thrust bearings, Multi Lobe-Profiled bearings, tilting pad bearings, and guide bearings for clients all over the world, undertaking the operations at our workshops in Chandigarh and Punjab.
