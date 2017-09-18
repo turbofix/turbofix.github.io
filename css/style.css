@@ -84,10 +84,10 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover,
   .fh5co-hero {
-    height: 1100px;
+    height: 1100px !important;
   }
 .fh5co-cover .desc{
-    top:25%;
+    top:25% !important;
   }
   .subtitle h2{
     font-size: 16px !important;
