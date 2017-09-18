@@ -1187,7 +1187,7 @@ figure {
 }
 
 .subtitle h2{
-  font-size: 20px !important;
+  font-size: 20px;
   color: #ffffff;
   letter-spacing: 0.5px;
   line-height: 1.8em;
